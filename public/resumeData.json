@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Lukanyo Nkohla",
+    "occupation": "Full-Stack Developer",
+    "description": "Passionate developer, enjoy learning new technologies and building apps",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Lukanyo, I am a full-stack Web Application Developer and Software Developer. I have a Bachelor Degree in Applications Development from Cape Peninsula University of Technology, and my primary focus and inspiration for my studies is Web Development. In my free time, I develop worpress websites and tudy cloud computing. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
+    "contactmessage": "Get in touch!",
+    "email": "thandonko141@gmail.com",
+    "phone": "0794962330",
+    "address": {
+      "street": "74 Parklands",
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "zip": "7441"
+    },
+    "website": "https://za.linkedin.com/in/lukanyo-tando-nkohla-b746ba1a2",
+    "resumedownload": "https://drive.google.com/file/d/1MA4g6kmC1qawj_u-iASxVupPxpT4vBVs/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCy2sKLT7mighKj9meaviygQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lukanyo-tando-nkohla-b746ba1a2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lukhanyoThando?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Cape Peninsula University of Technology",
+        "degree": "Advanced National Diploma ICT : Applications Development",
+        "graduated": "Dec 2022",
+        "description": "Advanced National Diploma : Applications Development"
+      },
+      {
+        "school": "Cape Peninsula University of Technology",
+        "degree": "National Diploma ICT : Applications Development",
+        "graduated": "Dec 2020",
+        "description": "National Diploma : Applications Development"
+      },
+      {
+        "school": "Butterworth High School",
+        "degree": "Matric : Grade 12",
+        "graduated": "Dec 2017",
+        "description": "Matric- passed with Bachelor"
+      }
+    ],
+    "work": [
+      {
+        "company": "Autumn Leaf",
+        "title": "Software Engineer",
+        "years": "Nov 2021 - Present",
+        "description": "Full-stack Developer - React js, Python, Java, HTML, CSS, AWS"
+      },
+      {
+        "company": "Cybersecurity",
+        "title": "Altron Bytes Solutions",
+        "years": "May 2021 - Nov 2021",
+        "description": "Blockchain and Cryptocurrency, IOT, Cloud Computing, AI and Machine language, Cybersecurity"
+      },
+      {
+        "company": "Web Developer",
+        "title": "African ideas",
+        "years": "Apr 2021 - May 2021",
+        "description": "Web developer. Developed Websites"
+      },
+      {
+        "company": "Vox Telecoms",
+        "title": "Faults Co-ordinator",
+        "years": "Mar 2021 - Apr 2021",
+        "description": "Faults Co-ordinator/field assistant"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "HTML, CSS, Javascript",
+        "level": "100%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Todays birthday App",
+        "category": "React js",
+        "image": "birthdayapp.jpg",
+        "url": "https://spidermanbirthday.netlify.app/"
+      },
+      {
+        "title": "Calling github users using Apis",
+        "category": "React Js",
+        "image": "githubuserapp.jpg",
+        "url": "https://githubusers-useeffect.netlify.app/"
+      },
+      {
+        "title": "Rock-paper-scissors Game",
+        "category": "HTML, CSS Javascript",
+        "image": "rock-paper-scissors.jpg",
+        "url": "https://myrock-paper-scissors-app.netlify.app/"
+      }
+    ]
+  }
+}
